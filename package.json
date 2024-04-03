@@ -1,0 +1,35 @@
+{
+  "name": "vizscribe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/vizscribe.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/vizscribe/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/vizscribe#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "webpack": "^5.91.0",
+    "highcharts": "^1.0.0",
+    "[object Object]": "^1.0.0"
+  }
+}
